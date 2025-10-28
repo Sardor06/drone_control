@@ -58,6 +58,10 @@ This project implements an autonomous drone system capable of responding to huma
 
 We welcome contributions to improve the Autonomous Gesture-controlled Drone project.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## Contact
 
 Sardor Atamurodov - sardoratamuradov2006@gmail.com
